@@ -16,6 +16,8 @@
     "express": "^5.2.1",
     "mongodb": "^7.4.0",
     "mongoose": "^9.7.3",
-    "nodemon": "^3.1.14"
+    "nanoid": "^5.1.16",
+    "nodemon": "^3.1.14",
+    "valid-url": "^1.0.9"
   }
 }
